@@ -1,0 +1,9 @@
+.sign {
+  background-color: #88e888;
+  width: 500px;
+  height: 100px;
+  text-align: center;
+  margin: 0 auto;
+  flex: 1;
+  align-content: middle;
+}
